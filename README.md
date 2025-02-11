@@ -1,5 +1,4 @@
-# VCC-VM-MQ
-Microservices-Based Messaging queue Architecture using FastAPI, RabbitMQ, and PostgreSQL
+# Microservices-Based Messaging queue Architecture using FastAPI, RabbitMQ, and PostgreSQL
 
 ## Project Overview
 
