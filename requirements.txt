@@ -1,0 +1,9 @@
+Python 3.12+ 
+FastAPI
+Uvicorn
+pip or pipx
+venv
+RabbitMQ-Server
+pika
+PostgreSQL
+psycopg2 or psycopg-binary
