@@ -8,7 +8,7 @@ This project demonstrates a microservices-based architecture using three Virtual
 - VM3 (Database Service) – PostgreSQL for data storage.
 The microservices communicate through RabbitMQ, enabling asynchronous message passing.
 
-### IP address as per my system
+### IP addresses as per my system (internal communication subnet)
 - VM1 (192.168.100.6) – FastAPI app to send messages.
 - VM2 (192.168.100.5) – RabbitMQ server for message queuing.
 - VM3 (192.168.100.7) – PostgreSQL database for storing messages.
